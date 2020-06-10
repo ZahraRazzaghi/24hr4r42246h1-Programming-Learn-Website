@@ -2,7 +2,7 @@
  * Created by Zahra Razzaghi on 04/30/2020.
  */
 /*Start Email Login Page js Codes */
-const inputs=document.querySelectorAll('.input');
+/*const inputs=document.querySelectorAll('.input');
 
 function focusFunc() {
     Let parent=this.parentNode.parentNode;
@@ -20,5 +20,5 @@ function blurFunc() {
 inputs.forEach(input => {
    input.addEventListener('focus',focusFunc);
    input.addEventListener('blur',blurFunc);
-});
+});*/
 /*End Email Login Page js Codes */

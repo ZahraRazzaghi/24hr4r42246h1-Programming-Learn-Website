@@ -22,7 +22,7 @@
 <header class="gh-head">
     <nav>
         <a href="#">
-            <img alt="Logo" class="" src="">
+            <img alt="fastscroll.com" class="" src="assests/images/undraw_welcome_cats_thqn.svg" width="9%">
         </a>
     </nav>
 </header>
@@ -49,12 +49,9 @@
                     <button id="login-facebook" class="btn btn-outline-light btn-block text-dark border-primary">
                         <small>ورود با لینکدین</small>
                     </button>
-                    <button id="login-email" class="btn btn-outline-light btn-block text-dark border-primary">
-    <a href="EmailLogin.php" class="text-dark link">  <small>ورود با ایمیل</small></a>
-                    </button>
-                    <a class="wave">
-                        licens
-                    </a>
+    <a href="EmailLogin.php" class="text-dark link">
+        <button id="login-email" class="btn btn-outline-light btn-block text-dark border-primary">
+            <small>ورود با ایمیل</small></button></a>
                 </div>
 
 

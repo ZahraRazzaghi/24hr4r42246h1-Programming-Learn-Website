@@ -1,0 +1,111 @@
+body {
+
+    color: #222222;
+    font-family:'YanoneKaffeesatzRegular';-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
+    margin: 0;
+    direction: rtl;
+}
+
+.masthead{
+    padding: 15em 0;
+    background-image: url("../images/intro_about_me_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-align: center;
+    border-top: solid 1em #000000;
+
+
+}
+.masthead-intro{
+    margin-bottom: 0.1em;
+}
+.masthead-heading{
+    margin-top: -0.2em;
+    font-size: 4em;
+
+}
+
+.header-divider{
+    max-width: 400px;
+    border-top: 1px solid;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.introduction-section,
+.location-section,
+.questions-section {
+    text-align: right;
+    margin-top: 2em;
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p, a {
+    font-family: 'sans-serif', Georgia, serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-bottom: 2em;
+    line-height: 1.3em;
+}
+
+h2 {
+    text-align: right;
+    font-size: 2em;
+    color: #686568;
+    margin-top: 0em;
+}
+
+h3 {
+
+    font-size: 1.7em;
+    color: #232323;
+}
+.mastfoot {
+
+    background-color: #232323;
+    margin-top: 3em;
+    padding: 4em
+}
+.our-service{
+    list-style:circle;
+}
+footer ul {
+    list-style-type: none;
+    margin: 2em;
+    padding: 0em;
+}
+
+footer li {
+    display: inline;
+    margin: 10px 10px;
+    color: #fff;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color:mediumspringgreen;
+}
+
+@media screen and (max-width: 500px) {
+    .masthead {
+        padding:  3em 0;
+    }
+    .masthead-heading {
+        font-size: 2em;
+    }
+    .introduction-section,
+    .questions-section,
+    .location-section {
+        margin: 10px;
+    }
+}
