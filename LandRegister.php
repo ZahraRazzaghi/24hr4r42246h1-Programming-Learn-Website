@@ -14,15 +14,15 @@
     <meta content="UvVP23KA-xdDS6KUpR3-1CEMMmNRev5bXUFo" name="csrf-token">
 
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="assests/css/bootstrap.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="assests/css/style.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/bootstrap.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css" crossorigin="anonymous">
 </head>
 <body>
 
 <header class="gh-head">
     <nav>
         <a href="#">
-            <img alt="Logo" class="" src="">
+            <img alt="fastscroll.com" class="" src="assets/images/undraw_welcome_cats_thqn.svg" width="9%">
         </a>
     </nav>
 </header>
@@ -49,12 +49,9 @@
                     <button id="login-facebook" class="btn btn-outline-light btn-block text-dark border-primary">
                         <small>ورود با لینکدین</small>
                     </button>
-                    <button id="login-email" class="btn btn-outline-light btn-block text-dark border-primary">
-    <a href="EmailLogin.php" class="text-dark link">  <small>ورود با ایمیل</small></a>
-                    </button>
-                    <a class="wave">
-                        licens
-                    </a>
+    <a href="EmailLogin.php" class="text-dark link">
+        <button id="login-email" class="btn btn-outline-light btn-block text-dark border-primary">
+            <small>ورود با ایمیل</small></button></a>
                 </div>
 
 
@@ -99,7 +96,7 @@
 
             </div> <!-- End page-content -->
 
-            <img src="assests/images/landreg.svg" class="regpic">
+            <img src="assets/images/landreg.svg" class="regpic">
 
         </div> <!-- End container -->
     </main>
