@@ -4,31 +4,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta name="X-UA-Compatible" content="ie=edge">
-    <title>Contact Form</title>
+    <meta name="keywords" content="Contact us,programming,learning programming,تماس با ما,برنامه نويسي">
+    <title>تماس با ما</title>
     <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
     <link href="assets/css/style_index.css" rel="stylesheet" type="text/css">
     <link href="assets/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="assets/css/style_ContactUs.css " rel="stylesheet" type="text/css">
-
-
 </head>
 <body>
-<!--- Start Header ---
-<header class="gh-head">
-    <nav class="gh-navbar inner">
-        <div class="gh-navbar-left">
-            <a aria-current="page" class="gh-nav-logo gh-navbar-item" href="index.php">خانه</a>
-            <a aria-current="page" class="gh-nav-logo gh-navbar-item" href="AboutUs.php">درباره ما</a>
-            <a aria-current="page" class="gh-nav-logo gh-navbar-item text-primary" href="ContactUs.php">تماس با ما</a>
-            <a aria-current="page" class="gh-nav-logo gh-navbar-item" href="Forum.php">بحث و گفتگو</a>
-            <a aria-current="page" class="gh-nav-logo gh-navbar-item" href="LandRegister.php">شروع یادگیری</a>
-        </div>
-    </nav>
-
-</header>
-<!--- End Header --->
-
 <!--- Start Form --->
 <section class="section-bg" style="background-image: url(assets/images/david-rangel-4m7gmLNr3M0-unsplash.jpg);" data-scroll-index="7">
     <div class="overlay pt-100 pb-100 ">
@@ -38,7 +21,10 @@
                     <div class="contact-info">
 
                         <h2 class="contact-title">آیا سوالی دارید؟</h2>
-                        <p>Lorem ipsum is a dummy text used to replace text in some areas just for the purpose of an example. It can be used in publishing and graphic design. The lorem ipsum text is usually a section of a Latin text by Cicero with words altered, added and removed to make it nonsensical.</p>
+                        <p>
+                        سوالات خود را از طریق این فرم با ما مطرح کنید قول می دهیم در اصرع وقت به آن ها پاسخ دهیم.
+                        همچنین می توانید انتقادات، پیشنهادات خود را خیلی سریع با ما در میان بگذارید.
+                        </p>
                         <ul class="contact-info">
                             <li>
                                 <div class="info-left">
@@ -105,35 +91,6 @@
         </div>
     </div>
 </section>
-<!--- End form --->
-
-<!--- Start footer ---
-<footer class="footer-landing-page center bg_dark">
-    <div class="row">
-        <div class="col-md-3">
-            <a href="AboutUs.php">درباره ما</a><br>
-            <a href="#">سوالات متداول</a>
-        </div>
-        <div class="col-md-3">
-            <h6>محصولات</h6>
-        </div>
-        <div class="col-md-3">
-            <h6>پشتیبانی</h6>
-            <a href="ContactUs.php">تماس با ما</a>
-        </div>
-        <div class="col-md-3">
-            <p>ما را در شبکه های اجتمایی دنبال کنید.</p>
-            <i class="fas fa-facebook-square" style="color:#8ab1f0;font-size:12px"><a href="#"></a> </i>
-            <i class="fas fa-instagram" style="color:#8ab1f0;font-size:12px"><a href="#"></a></i>
-            <i class="fas fa-twitter" style="color:#8ab1f0;font-size:12px"><a href="#"></a></i>
-            <i class="fas fa-linkedin" style="color:#8ab1f0;font-size:12px"><a href="#"></a></i>
-            <p>Create by:   <a class="text-danger" style="color: #7b79ff;">zahra razzaghi</a></p></div>
-    </div>
-
-
-    <a class="text-dark fa fa-copyright" style="color: #7b79ff; direction: ltr;">&nbsp;2020 fastscroll.com. All rights reserved. </a>
-</footer>
-<!--- End footer --->
 <script src="assets/js/sweetalert.js"></script>
 </body>
 </html>
