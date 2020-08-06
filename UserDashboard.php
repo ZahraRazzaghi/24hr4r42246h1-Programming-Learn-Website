@@ -38,7 +38,7 @@ echo $fetch['Usr_DisplayName'];
                    <li><a aria-current="page" class="gh-nav-logo gh-navbar-item" href="#">تنظیمات</a></li>
                    <li><a aria-current="page" class="gh-nav-logo gh-navbar-item" href="engin/LogOut.php">خروج</a></li>
                </ul></li>
-                   <li><a aria-current="page" class="gh-nav-logo gh-navbar-item" href="Courses/Courses.php">درس ها</a></li>
+                   <li><a aria-current="page" class="gh-nav-logo gh-navbar-item" href="Courses.php">درس ها</a></li>
                </ul>
            </nav>
         </div>

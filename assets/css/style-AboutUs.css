@@ -9,7 +9,7 @@ body {
 .masthead{
     padding: 15em 0;
     background: linear-gradient(135deg,rgba(49,24,131,0.9) 0%,rgba(72,56,149,0.8)100%)
-    ,url("../images/landing-page.jpg") center no-repeat fixed;
+    ,url("../images/About_Us_img.jpg") center no-repeat fixed;
     background-size: cover;
     background-repeat: no-repeat;
     color: #ffffff;

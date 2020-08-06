@@ -22,7 +22,7 @@
 <header class="gh-head">
     <nav>
         <a href="#">
-            <img alt="fastscroll.com" class="" src="assets/images/undraw_welcome_cats_thqn.svg" width="9%">
+            <img alt="fastscroll.com" class="" src="assets/images/undraw_welcome_cats.svg" width="9%">
         </a>
     </nav>
 </header>
@@ -49,11 +49,10 @@
                     <button id="login-facebook" class="btn btn-outline-light btn-block text-dark border-primary">
                         <small>ورود با لینکدین</small>
                     </button>
-    <a href="EmailLogin.php" class="text-dark link">
+    <a href="SignIn.php" class="text-dark link">
         <button id="login-email" class="btn btn-outline-light btn-block text-dark border-primary">
             <small>ورود با ایمیل</small></button></a>
                 </div>
-
 
                 <!-- Start passwordless-email -->
                 <!--     <div class="passwordless-email" style="display: none;">
